@@ -1,5 +1,5 @@
 ### Hi there, I'm Eren :space_invader:
-- I mess around with some code stuff.
+- I mess with some code here.
 - I use Github... 
     * to create simplified implementations of some concepts I've learned and use like [Message Queueing with RabbitMQ in Spring Boot](https://github.com/celikeren/spring-boot-rabbitmq-demo)
     * as a playground to try new languages, frameworks like [Simple Counter App with ReactJS](https://github.com/celikeren/counter-app)
